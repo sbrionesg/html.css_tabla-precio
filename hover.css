@@ -1,0 +1,11 @@
+button{
+    background: #404969;
+    color: #bde4f4;
+}
+/* Para que cuando el mouse este encima del botón cambie de color */
+button:hover{
+    background: #ff7f50;
+}
+button:active{
+    background: #ff4273;
+}
